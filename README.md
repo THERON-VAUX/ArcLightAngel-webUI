@@ -1,4 +1,4 @@
-h1 align="center">Arc Light Angel</h1>
+# Arc Light Angel
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Stars](https://img.shields.io/github/stars/THERON-VAUX/ArcLightAngel-webUI?style=social)](https://github.com/TheronVaux/Angelcrystal-webUI/stargazers)
